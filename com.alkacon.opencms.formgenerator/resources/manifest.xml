@@ -817,6 +817,10 @@
 					<name>Title</name>
 					<value><![CDATA[workplace_es]]></value>
 				</property>
+				<property>
+					<name>content-encoding</name>
+					<value><![CDATA[ISO-8859-1]]></value>
+				</property>
 			</properties>
 			<relations/>
 			<accesscontrol/>
